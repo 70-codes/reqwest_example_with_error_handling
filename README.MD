@@ -152,11 +152,3 @@ Run with debug information:
 RUST_LOG=debug cargo run
 ```
 
-## Future Enhancements
-
-- Add command-line argument support for custom usernames
-- Implement GitHub API authentication
-- Add JSON parsing for structured data output
-- Include retry logic for failed requests
-- Add configuration file support
-- Implement caching for user data
